@@ -18,6 +18,7 @@ public class Question2 {
                 go = false;
             } else {
                 radius = Double.parseDouble(radiusStr);
+                System.out.print("Area is: ");
                 System.out.printf("%5f\n",Math.PI * Math.pow(radius, 2));
             }
 
