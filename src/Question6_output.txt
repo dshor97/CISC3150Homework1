@@ -1,0 +1,72 @@
+The center point of the circle:
+2 1
+The radius of the circle:
+2
+The center point of the circle:
+-1 2
+The radius of the circle:
+.5
+The center point of the circle:
+-1 1
+The radius of the circle:
+2
+The center point of the circle:
+2 -2
+The radius of the circle:
+1
+The center point of the circle:
+-1 1
+The radius of the circle:
+2
+Circle 1:
+The center of the circle is: (2,1)
+The radius of the circle is: 2.0
+
+Circle 2:
+The center of the circle is: (-1,2)
+The radius of the circle is: 0.5
+
+Circle 3:
+The center of the circle is: (-1,1)
+The radius of the circle is: 2.0
+
+Circle 4:
+The center of the circle is: (2,-2)
+The radius of the circle is: 1.0
+
+Circle 5:
+The center of the circle is: (-1,1)
+The radius of the circle is: 2.0
+
+Testing circle 1 and 2 for overlap:
+The circles are separate from each other
+
+Testing circle 1 and 3 for overlap:
+The circles intersect twice.
+
+Testing circle 1 and 4 for overlap:
+The circles intersect once.
+
+Testing circle 1 and 5 for overlap:
+The circles intersect twice.
+
+Testing circle 2 and 3 for overlap:
+The circles are complete within each other
+
+Testing circle 2 and 4 for overlap:
+The circles are separate from each other
+
+Testing circle 2 and 5 for overlap:
+The circles are complete within each other
+
+Testing circle 3 and 4 for overlap:
+The circles are separate from each other
+
+Testing circle 3 and 5 for overlap:
+The circles are the same and are completely overlapping each other.
+
+Testing circle 4 and 5 for overlap:
+The circles are separate from each other
+
+
+Process finished with exit code 0

@@ -1,0 +1,12 @@
+Enter a radius: 2
+Area is: 12.566371
+Enter a radius: 12
+Area is: 452.389342
+Enter a radius: 5
+Area is: 78.539816
+Enter a radius: 12
+Area is: 452.389342
+Enter a radius: ^d
+Exiting now.
+
+Process finished with exit code 0
