@@ -15,7 +15,6 @@ public class Question4 {
                     filePath = filePath + args[i];
                 }
 
-
                 File file = new File(filePath);
                 FileReader fileReader = new FileReader(file);
                 BufferedReader input = new BufferedReader(fileReader);
